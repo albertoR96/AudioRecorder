@@ -1,0 +1,7 @@
+{
+  "name": "AudioRecorder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
